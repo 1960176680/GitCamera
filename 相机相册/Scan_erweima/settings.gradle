@@ -1,0 +1,1 @@
+include ':QR_CodeScan',':QRCode',':ZxingScanner',':QR',':er_weima'
